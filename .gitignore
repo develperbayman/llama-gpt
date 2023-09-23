@@ -1,4 +1,4 @@
 **/.DS_Store
-models/*.bin
+#models/*.bin
 models/*.gguf
 **/.todo
